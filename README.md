@@ -1,6 +1,6 @@
 ### Hi, I'm Erik 👋
 
-I run three production AI platforms on my own infrastructure, underneath 20 years of enterprise software consulting (life insurance, retail banking, energy).
+I build **agentic engineering platforms — harnesses and factories** for AI work. Three live in production on my own infrastructure, underneath 20 years of enterprise software consulting (life insurance, retail banking, energy).
 
 Open to permanent **AI Architect** roles, **EU remote**. Direct employment or via employer-of-record.
 
